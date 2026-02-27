@@ -30,6 +30,9 @@ pip install -r requirements.txt
 
 # 4. Run the app
 streamlit run app.py
+```
 
+##**Live Demo**
+Try FashioNova AI online: https://vsreevalli-fashionova-ai.streamlit.app
 
 
