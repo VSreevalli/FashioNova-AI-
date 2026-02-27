@@ -16,8 +16,20 @@ FashioNova AI is an **AI-powered fashion design and outfit suggestion app**. It 
 
 ## **Setup Instructions (Windows)**
 
-1. Clone the repository:
-
 ```powershell
+# 1. Clone the repository
 git clone https://github.com/VSreevalli/FashioNova-AI-.git
-cd FashioNova-AI
+cd FashioNova-AI-
+
+# 2. Create and activate a virtual environment
+python -m venv venv
+venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the app
+streamlit run app.py
+
+
+
