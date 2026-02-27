@@ -1,6 +1,6 @@
 # FashioNova AI
 
-FashioNova AI is an **AI-powered fashion design and outfit suggestion app**. It generates unique fashion designs based on user prompts, provides AI suggestions, and allows users to view, download and share generated outfits.  
+FashioNova AI is an **AI-powered fashion design and outfit suggestion app**. It generates unique fashion designs based on user prompts, provides AI suggestions, and allows users to view, download, and share generated outfits.  
 
 ---
 
@@ -20,7 +20,4 @@ FashioNova AI is an **AI-powered fashion design and outfit suggestion app**. It 
 
 ```powershell
 git clone https://github.com/VSreevalli/FashioNova-AI-.git
-cd FashioNova-AI
-
-## Live Demo
-Try FashioNova AI online: [https://vsreevalli-fashionova-ai.streamlit.app](https://vsreevalli-fashionova-ai.streamlit.app)
+cd FashioNova-AI-
