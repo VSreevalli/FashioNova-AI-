@@ -1,4 +1,23 @@
+# Virtual environment
 venv/
+
+# Environment variables
 .env
+
+# Python cache files
 __pycache__/
-*.pyc 
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if you ever use notebooks)
+.ipynb_checkpoints/
+
+# Streamlit cache (optional)
+.streamlit/
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
